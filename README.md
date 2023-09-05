@@ -1,4 +1,4 @@
-# NLP-Sentiment and Recommendation System (Final Project for EECS-731 Data Science)
+# NLP-Sentiment and Recommendation System 
 
 
 Project Organization
